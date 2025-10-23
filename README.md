@@ -1,5 +1,5 @@
 # yt-2-mp3
-YouTube To MP3 Converter
+YouTube To MP3 Converter for WINDOWS
 
 Hi there,
 
@@ -8,12 +8,14 @@ WELCOME TO YT2MP3!
 To get started
 ---
 1:
-Run the YT_2_MP3.exe. The app will open after about 10 seconds.
+Download the latest release of "YT_2_MP3.exe"(v x.x.x).
 
 2:
-Copy (CTRL+C) and paste (CTRL+V) a youtube link into the URL box and then hit download. POOF! its done.
+Extract the zip folder and place /dist folder anywhere you'd like.
+-> you may need to allow exe on YT_2_MP3.exe through Windows Defender.
 
-3:
+3: Copy and Paste YouTube Link in app _URL BAR_ & Hit Convert!
+
 Please remember: converted YouTube videos should be for personal use only. 
 Do not sell them, as this may lead to copyright infringement.
 
