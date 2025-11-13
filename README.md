@@ -34,4 +34,4 @@ https://github.com/AMdevMaestro/yt-2-mp3
 Sincerely,  
 AM 
 
-[ !TOOLTIP! ]: Use CTRL+C to copy a link and CTRL+V to paste it.
+[ !TOOLTIP! ]: Use CTRL+C to copy a link and CTRL+V or Right Click > "Paste Url" to paste it.
