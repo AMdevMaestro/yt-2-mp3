@@ -12,7 +12,7 @@ Download the latest release of "YT_2_MP3.exe"(v x.x.x).
 
 2:
 Extract the zip folder and place /dist folder anywhere you'd like.
--> you may need to allow exe on YT_2_MP3.exe through Windows Defender.
+-> you may need to allow YT_2_MP3.exe through Windows Defender.
 
 3: Copy and Paste YouTube Link in app _URL BAR_ & Hit Convert!
 
